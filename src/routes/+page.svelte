@@ -94,7 +94,7 @@
 <section class="bg-[#457b9d] md:h-[700px] border-b-2 p-5" id="projects">
 	<h2 class="h2 text-center mt-10">Projects</h2>
 	<!-- <div class="flex md:flex-row flex-col space-y-10 md:space-x-10 mt-10 md:justify-center items-center mb-10"> -->
-	<div class='flex flex-col md:flex-row md:space-x-10 md:justify-center p-14'>
+	<div class='flex flex-col md:flex-row md:space-x-10 md:justify-center p-5 md:p-14'>
 		<a
 			href="https://broxdeez-moviedb.vercel.app/"
 			class="flex flex-col mb-5 justify-center items-center space-y-5 max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow-2xl hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
